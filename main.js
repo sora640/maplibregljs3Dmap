@@ -1,7 +1,7 @@
 const map = new maplibregl.Map({
   container: "map",
   center: [134.310679, 34.47023], // 中心座標
-  zoom: 20, // ズームレベル
+  zoom: 15, // ズームレベル
   style: {
     // スタイル仕様のバージョン番号。8を指定する
     version: 8,
